@@ -1,4 +1,4 @@
-const KresoKralj = 0
-const nisamKralj = 1
+const KresoKralj = 0;
+const nisamKralj = 1;
 
-const test = 0
+const test = 0;

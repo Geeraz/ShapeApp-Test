@@ -1,0 +1,1 @@
+const najjaci = "mi smo banda najjaca!";
