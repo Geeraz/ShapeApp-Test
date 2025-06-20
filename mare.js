@@ -1,0 +1,1 @@
+const mare = "1";
